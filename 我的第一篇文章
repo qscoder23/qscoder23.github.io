@@ -20,15 +20,15 @@
     var CONFIG = {"hostname":"qscoder23.github.io","root":"/","scheme":"Gemini","version":"7.8.0","exturl":false,"sidebar":{"position":"left","display":"post","padding":18,"offset":12,"onmobile":false},"copycode":{"enable":false,"show_result":false,"style":null},"back2top":{"enable":true,"sidebar":false,"scrollpercent":false},"bookmark":{"enable":false,"color":"#222","save":"auto"},"fancybox":false,"mediumzoom":false,"lazyload":false,"pangu":false,"comments":{"style":"tabs","active":null,"storage":true,"lazyload":false,"nav":null},"algolia":{"hits":{"per_page":10},"labels":{"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}},"localsearch":{"enable":false,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},"motion":{"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}}};
   </script>
 
-  <meta name="description" content="败者成为战火余烬而胜者重燃">
+  <meta name="description" content="关于这个博客的介绍这个博客是什么？这个博客是个纯技术博客，搭建这个博客的目的有以下几点：  记录自己的学习生活，见证自己来时的路 与更多的人交流讨论最前沿的技术问题 让自己的想法被更多人看见  这篇博客会发布哪些领域的内容？ 大模型领域的前沿与热门技术 NLP graph RAG python，Java等热门语言以及pytorch等框架的新版本特性 个人对部分算法的见解  以下属于个人碎碎念部分为">
 <meta property="og:type" content="article">
 <meta property="og:title" content="我的第一篇文章">
 <meta property="og:url" content="https://qscoder23.github.io/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0">
 <meta property="og:site_name" content="千仐的尼罗河花园">
-<meta property="og:description" content="败者成为战火余烬而胜者重燃">
+<meta property="og:description" content="关于这个博客的介绍这个博客是什么？这个博客是个纯技术博客，搭建这个博客的目的有以下几点：  记录自己的学习生活，见证自己来时的路 与更多的人交流讨论最前沿的技术问题 让自己的想法被更多人看见  这篇博客会发布哪些领域的内容？ 大模型领域的前沿与热门技术 NLP graph RAG python，Java等热门语言以及pytorch等框架的新版本特性 个人对部分算法的见解  以下属于个人碎碎念部分为">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2025-07-02T07:21:21.000Z">
-<meta property="article:modified_time" content="2025-07-02T07:23:58.419Z">
+<meta property="article:modified_time" content="2025-07-02T07:48:55.789Z">
 <meta property="article:author" content="qiansan">
 <meta property="article:tag" content="综述">
 <meta name="twitter:card" content="summary">
@@ -205,7 +205,7 @@
               <span class="post-meta-item-text">发表于</span>
               
 
-              <time title="创建时间：2025-07-02 15:21:21 / 修改时间：15:23:58" itemprop="dateCreated datePublished" datetime="2025-07-02T15:21:21+08:00">2025-07-02</time>
+              <time title="创建时间：2025-07-02 15:21:21 / 修改时间：15:48:55" itemprop="dateCreated datePublished" datetime="2025-07-02T15:21:21+08:00">2025-07-02</time>
             </span>
 
           
@@ -219,7 +219,21 @@
     <div class="post-body" itemprop="articleBody">
 
       
-        
+        <h1 id="关于这个博客的介绍"><a href="#关于这个博客的介绍" class="headerlink" title="关于这个博客的介绍"></a>关于这个博客的介绍</h1><h2 id="这个博客是什么？"><a href="#这个博客是什么？" class="headerlink" title="这个博客是什么？"></a>这个博客是什么？</h2><p>这个博客是个纯技术博客，搭建这个博客的目的有以下几点：</p>
+<ol>
+<li>记录自己的学习生活，见证自己来时的路</li>
+<li>与更多的人交流讨论最前沿的技术问题</li>
+<li>让自己的想法被更多人看见</li>
+</ol>
+<h2 id="这篇博客会发布哪些领域的内容？"><a href="#这篇博客会发布哪些领域的内容？" class="headerlink" title="这篇博客会发布哪些领域的内容？"></a>这篇博客会发布哪些领域的内容？</h2><ol>
+<li>大模型领域的前沿与热门技术</li>
+<li>NLP</li>
+<li>graph RAG</li>
+<li>python，Java等热门语言以及pytorch等框架的新版本特性</li>
+<li>个人对部分算法的见解</li>
+</ol>
+<h1 id="以下属于个人碎碎念部分"><a href="#以下属于个人碎碎念部分" class="headerlink" title="以下属于个人碎碎念部分"></a>以下属于个人碎碎念部分</h1><h2 id="为什么选择乌萨奇作为头像？"><a href="#为什么选择乌萨奇作为头像？" class="headerlink" title="为什么选择乌萨奇作为头像？"></a>为什么选择乌萨奇作为头像？</h2><p>我本人其实是一个相对比较含蓄内敛的人，希望像乌萨奇一样的，有话就说，敢说敢做（其实更多是单纯喜欢这只黄色的傻兔子）</p>
+
     </div>
 
     
@@ -299,6 +313,7 @@
 
       <!--noindex-->
       <div class="post-toc-wrap sidebar-panel">
+          <div class="post-toc motion-element"><ol class="nav"><li class="nav-item nav-level-1"><a class="nav-link" href="#%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%9A%84%E4%BB%8B%E7%BB%8D"><span class="nav-number">1.</span> <span class="nav-text">关于这个博客的介绍</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E6%98%AF%E4%BB%80%E4%B9%88%EF%BC%9F"><span class="nav-number">1.1.</span> <span class="nav-text">这个博客是什么？</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#%E8%BF%99%E7%AF%87%E5%8D%9A%E5%AE%A2%E4%BC%9A%E5%8F%91%E5%B8%83%E5%93%AA%E4%BA%9B%E9%A2%86%E5%9F%9F%E7%9A%84%E5%86%85%E5%AE%B9%EF%BC%9F"><span class="nav-number">1.2.</span> <span class="nav-text">这篇博客会发布哪些领域的内容？</span></a></li></ol></li><li class="nav-item nav-level-1"><a class="nav-link" href="#%E4%BB%A5%E4%B8%8B%E5%B1%9E%E4%BA%8E%E4%B8%AA%E4%BA%BA%E7%A2%8E%E7%A2%8E%E5%BF%B5%E9%83%A8%E5%88%86"><span class="nav-number">2.</span> <span class="nav-text">以下属于个人碎碎念部分</span></a><ol class="nav-child"><li class="nav-item nav-level-2"><a class="nav-link" href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9%E4%B9%8C%E8%90%A8%E5%A5%87%E4%BD%9C%E4%B8%BA%E5%A4%B4%E5%83%8F%EF%BC%9F"><span class="nav-number">2.1.</span> <span class="nav-text">为什么选择乌萨奇作为头像？</span></a></li></ol></li></ol></div>
       </div>
       <!--/noindex-->
 
